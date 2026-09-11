@@ -76,7 +76,7 @@ very next guide, where we walk through it step-by-step.
 > Git Bash. Typing them into the wrong terminal will produce confusing
 > errors that have nothing to do with you doing something wrong.
 
-<!-- IMAGE: Windows Start menu search showing "Git Bash" as the top result under Best match. Target path: images/01-open-terminal-windows.png -->
+![Windows Start menu search showing "Git Bash"](<../images/01-open-terminal-windows.png>)
 
 ### macOS
 

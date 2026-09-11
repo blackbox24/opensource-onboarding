@@ -131,6 +131,7 @@ def main():
                     if external and target.startswith(("http://", "https://")):
                         found.setdefault(target, []).append((path, lineno))
                     continue
+                target = target.strip("<>")
 
                 relpath, _, anchor = target.partition("#")
                 resolved = path if not relpath else os.path.normpath(
