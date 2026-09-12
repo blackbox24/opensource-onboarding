@@ -281,8 +281,10 @@ Some rules for screenshots and animations:
 Use whatever screenshot tool your computer already has. To crop, any
 image editor will do, including Photos on Windows and Preview on
 macOS. For recording animated GIFs, free tools like **ScreenToGif**
-(Windows) or **LICEcap** (macOS/Windows) are highly recommended. You
-do not need to blur anything properly either: drawing a filled
+(Windows) or **LICEcap** (macOS/Windows) are highly recommended. If
+you already have a video, you can convert it to GIF on any device
+using <a href="https://cloudconvert.com/gif-converter" target="_blank" rel="noopener noreferrer">CloudConvert</a>.
+You do not need to blur anything properly either: drawing a filled
 rectangle over an email address is fine, and easier to get right.
 
 ---
