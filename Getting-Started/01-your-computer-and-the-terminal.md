@@ -82,7 +82,7 @@ very next guide, where we walk through it step-by-step.
 
 Press `Cmd + Space`, type **Terminal**, and hit Enter.
 
-<!-- IMAGE: macOS Spotlight search with "terminal" typed in, showing Terminal.app as the top result. Target path: images/01-open-terminal-macos.png -->
+![macOs Spotlight search with "terminal"](<../images/01-open-terminal-macos.png>)
 
 ### Linux
 
