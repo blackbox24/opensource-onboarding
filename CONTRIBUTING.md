@@ -250,29 +250,40 @@ Guides mark where a screenshot belongs with an HTML comment:
 <!-- IMAGE: Terminal showing git status output. Target path: images/git-status-modified.png -->
 ```
 
-To fill one in, take the screenshot described, save it at the target
-path, and replace the comment with the image:
+To fill one in, take the screenshot or animation described, save it
+at the target path, and replace the comment with the image/GIF:
 
 ```markdown
 ![Terminal showing git status output](../images/git-status-modified.png)
 ```
 
-Some rules for screenshots:
+Some rules for screenshots and animations:
 
 - Crop to what matters. No full desktops, no visible taskbars.
 - Blur or edit out anything personal: email addresses, real file paths
   with your name in them, tokens, anything private.
-- Use PNG, and keep files under about 500 KB.
+- Use PNG for static screenshots, and GIF for short animations. Keep
+  PNG files under 500 KB, and GIF files under 2 MB to keep guides
+  fast and lightweight.
+- **Only use GIFs when motion is necessary** to explain a concept or
+  interactive process (such as a terminal workflow or GitHub
+  interface action). Keep animations short, focused, and
+  loop-optimized.
 - Always write alt text that describes what is in the image, for
   people using a screen reader.
-- Keep every screenshot in one guide consistent with the others: same
-  theme, same account, same machine. Use whichever GitHub theme you
-  already use, there is no need to switch to match anyone. The point is
-  that a reader never watches the interface change halfway through a
-  guide, or the username swap between one step and the next.
+- Keep every screenshot or GIF in one guide consistent with the
+  others: same theme, same account, same machine. Use whichever
+  GitHub theme you already use, there is no need to switch to
+  match anyone. The point is that a reader never watches the
+  interface change halfway through a guide, or the username swap
+  between one step and the next.
 
 Use whatever screenshot tool your computer already has. To crop, any
-image editor will do, including Photos on Windows and Preview on macOS.
+image editor will do, including Photos on Windows and Preview on
+macOS. For recording animated GIFs, free tools like **ScreenToGif**
+(Windows) or **LICEcap** (macOS/Windows) are highly recommended. If
+you already have a video, you can convert it to GIF on any device
+using <a href="https://cloudconvert.com/gif-converter" target="_blank" rel="noopener noreferrer">CloudConvert</a>.
 You do not need to blur anything properly either: drawing a filled
 rectangle over an email address is fine, and easier to get right.
 
