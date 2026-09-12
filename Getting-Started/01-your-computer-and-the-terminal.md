@@ -88,7 +88,7 @@ Press `Cmd + Space`, type **Terminal**, and hit Enter.
 
 Press `Ctrl + Alt + T`, or search for **Terminal** in your applications.
 
-<!-- IMAGE: Linux applications menu with Terminal highlighted under Accessories. Target path: images/01-open-terminal-linux.png -->
+!["Search terminal in linux application menu"](<../images/01-open-terminal-linux.png>)
 
 Once it opens, you will see something like this:
 
