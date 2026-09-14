@@ -55,6 +55,7 @@ options. After it finishes, close Git Bash and open it again. Run
 `git --version` to confirm.
 
 <!-- IMAGE: The Git for Windows installer open on Windows, showing the default options selected. Target path: images/02-install-git-windows.png -->
+![02-install-git-windows.png](../images/02-install-git-windows.png)
 
 ### macOS
 
@@ -192,6 +193,7 @@ most developers use.
    default options.
 
 <!-- IMAGE: The VS Code download page at code.visualstudio.com with the main download button highlighted. Target path: images/vscode-download.png -->
+![VScode download page](<../images/vscode-download.png>)
 
 > [!TIP]
 > On Windows, the installer offers a checkbox along the lines of "Add
