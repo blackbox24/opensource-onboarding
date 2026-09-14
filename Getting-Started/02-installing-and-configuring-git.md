@@ -193,6 +193,7 @@ most developers use.
    default options.
 
 <!-- IMAGE: The VS Code download page at code.visualstudio.com with the main download button highlighted. Target path: images/vscode-download.png -->
+![VScode download page](<../images/vscode-download.png>)
 
 > [!TIP]
 > On Windows, the installer offers a checkbox along the lines of "Add
