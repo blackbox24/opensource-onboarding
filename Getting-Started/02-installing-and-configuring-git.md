@@ -55,6 +55,7 @@ options. After it finishes, close Git Bash and open it again. Run
 `git --version` to confirm.
 
 <!-- IMAGE: The Git for Windows installer open on Windows, showing the default options selected. Target path: images/02-install-git-windows.png -->
+![02-install-git-windows.png](../images/02-install-git-windows.png)
 
 ### macOS
 
