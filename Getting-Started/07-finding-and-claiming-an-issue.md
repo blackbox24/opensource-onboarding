@@ -45,6 +45,8 @@ Click the **Issues** tab at the top.
 
 <!-- IMAGE: The top navigation of the open-source-practice repo on GitHub. The "Issues" tab is highlighted and shows a count of open issues. Target path: images/issues-tab.png -->
 
+![issues-tab](../images/issues-tab.png)
+
 What you should see: a list of open issues. Each one describes a small
 problem: a typo, a broken link, or a similar fix. Each issue has a
 title, a description, and the name of the file where the problem is.
@@ -96,6 +98,7 @@ Do not start working before you are assigned. This prevents two people
 from fixing the same issue and submitting conflicting pull requests.
 
 <!-- IMAGE: An issue page on GitHub. The right-hand sidebar shows the "Assignees" section with a GitHub username assigned to the issue. Target path: images/issue-assignees.png -->
+![issue-assignees](../images/issue-assignees.png)
 
 > [!TIP]
 > Only claim one issue at a time. Finish and close your current one
@@ -212,6 +215,8 @@ git status
 
 <!-- IMAGE: Terminal showing git status output. Under "Changes not staged for commit" one file (e.g. docs/about.md) is listed as modified. Target path: images/git-status-modified.png -->
 
+![git-status-modified](../images/git-status-modified.png)
+
 Stage the file you changed:
 
 ```bash
@@ -263,6 +268,7 @@ appears in the "Development" section on the right side panel, showing
 it will be closed automatically when your pull request is merged.
 
 <!-- IMAGE: An open pull request page on GitHub. The right-hand sidebar shows the "Development" section with the linked issue number and title listed below it. Target path: images/pr-linked-issue.png -->
+![pr-linked-issue](../images/pr-linked-issue.png)
 
 ---
 ## Quick reference
