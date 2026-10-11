@@ -70,6 +70,8 @@ Click the **Pull Requests** tab at the top.
 
 <!-- IMAGE: The top navigation of the open-source-practice repo on GitHub. The "Pull requests" tab is highlighted and shows a count of open PRs. Target path: images/pull-requests-tab.png -->
 
+![images/pull-requests-tab](../images/pull-requests-tab.png)
+
 What you should see: a list of open pull requests from other community
 members.
 
@@ -92,6 +94,8 @@ Click **Files changed**.
 
 <!-- IMAGE: A pull request page on GitHub with the "Files changed" tab selected. A new file under contributors/ is shown with its lines in green. Target path: images/files-changed-tab.png -->
 
+![files-changed-tab](../images/files-changed-tab.png)
+
 What you should see: one file under `contributors/`, with its lines
 highlighted in green. Green means added content. Red means removed content.
 
@@ -110,6 +114,7 @@ line. Use this when you have feedback about something on that exact
 line.
 
 <!-- IMAGE: The Files changed view with the mouse hovering over a line. The blue "+" button is visible on the left side of the line. Target path: images/inline-comment-button.png -->
+![inline-comment-button](../images/inline-comment-button.png)
 
 **On the whole pull request**
 
@@ -140,10 +145,12 @@ Looks good to me. Entry follows the correct format and the link works.
 
 After writing your comment, submit it formally using the review tool.
 
-Click the **Review changes** button at the top right of the Files
+Click the **Submit review** button at the right side of the Files
 changed tab.
 
-<!-- IMAGE: The top-right area of the Files changed tab showing the green "Review changes" button. Target path: images/review-changes-button.png -->
+<!-- IMAGE: The top-right area of the Files changed tab showing the green "Submit review" button. Target path: images/review-changes-button.png -->
+
+![review-changes-button](../images/review-changes-button.png)
 
 You will see three options:
 
