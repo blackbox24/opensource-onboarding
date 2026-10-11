@@ -240,6 +240,7 @@ notepad contributors/your-username.md
 ```
 
 <!-- IMAGE: contributors/your-username.md open in Notepad on Windows. Target path: images/05-open-contributors-windows.png -->
+![Open contributors windows](../images/05-open-contributors-windows.png)
 
 ### macOS
 
