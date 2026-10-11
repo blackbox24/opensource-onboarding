@@ -263,6 +263,7 @@ nano contributors/your-username.md
 > return to your prompt.
 
 <!-- IMAGE: contributors/your-username.md open in nano in the Linux terminal. Target path: images/05-open-contributors-linux.png -->
+![Open contributors macos](../images/05-open-contributors-linux.png)
 
 **If the file is empty**, write a few lines about yourself:
 
@@ -284,6 +285,7 @@ line at the bottom:
 Save the file.
 
 <!-- IMAGE: contributors/janedoe.md open in a text editor with the three lines about Jane filled in. Target path: images/contributors-md-edit.png -->
+![contributors-md-edit](../images/contributors-md-edit.png)
 
 > [!TIP]
 > Only edit your own file. Do not change anyone else's file or anything
