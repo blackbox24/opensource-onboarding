@@ -104,6 +104,7 @@ notepad docs/conflict-practice.md
 ```
 
 <!-- IMAGE: conflict-practice.md open in Notepad on Windows showing the "Favorite programming language: not set yet" line. Target path: images/08-open-conflict-file-windows.png -->
+![08-open-conflict-file-windows](../images/08-open-conflict-file-windows.png)
 
 ### macOS
 
@@ -120,6 +121,7 @@ nano docs/conflict-practice.md
 ```
 
 <!-- IMAGE: conflict-practice.md open in nano in the Linux terminal showing the "Favorite programming language: not set yet" line. Target path: images/08-open-conflict-file-linux.png -->
+![08-open-conflict-file-linux](../images/08-open-conflict-file-linux.png)
 
 Find this line:
 
@@ -191,6 +193,7 @@ Automatic merge failed; fix conflicts and then commit the result.
 ```
 
 <!-- IMAGE: Terminal showing the merge conflict output. The CONFLICT line and "Automatic merge failed" message are clearly visible. Target path: images/merge-conflict-output.png -->
+![merge-conflict-output](../images/merge-conflict-output.png)
 
 This is the conflict. Git has stopped and is waiting for you to
 decide what to do. Nothing is broken. This is exactly what is
@@ -226,6 +229,8 @@ Favorite programming language: JavaScript
 ```
 
 <!-- IMAGE: The conflict-practice.md file open in a text editor showing the conflict markers. The <<<<<<< HEAD section, ======= divider, and >>>>>>> origin/simulated-upstream-change section are all visible with both conflicting lines. Target path: images/conflict-markers-in-file.png -->
+
+![conflict-markers-in-file](../images/conflict-markers-in-file.png)
 
 Git has rewritten the file to show you both versions side by side,
 with markers to separate them. Think of it as a temporary "conversation"
@@ -276,6 +281,7 @@ where the conflict was.
 Save the file.
 
 <!-- IMAGE: The conflict-practice.md file open in a text editor after resolving. No conflict markers are visible. Only the clean resolved line remains, e.g. "Favorite programming language: Python". Target path: images/conflict-resolved-clean.png -->
+![conflict-resolved-clean](../images/conflict-resolved-clean.png)
 
 ---
 ## Step 8: Finish the merge
