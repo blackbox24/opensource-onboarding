@@ -110,7 +110,7 @@ Click the **Issues** tab, then type a couple of words describing your
 problem into the search box at the top of the list.
 
 <!-- IMAGE: The Issues tab of the open-source-practice repo. The search box above the issue list is highlighted with a search term typed into it. Target path: images/issues-search.png -->
-![issues-search](../image/issues-search.png)
+![issues-search](../images/issues-search.png)
 
 Search with the plainest words you can, and use as few as possible. If
 you found a link that does not work on the resources page, search
