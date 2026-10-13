@@ -110,6 +110,7 @@ Click the **Issues** tab, then type a couple of words describing your
 problem into the search box at the top of the list.
 
 <!-- IMAGE: The Issues tab of the open-source-practice repo. The search box above the issue list is highlighted with a search term typed into it. Target path: images/issues-search.png -->
+![issues-search](../images/issues-search.png)
 
 Search with the plainest words you can, and use as few as possible. If
 you found a link that does not work on the resources page, search
@@ -139,6 +140,7 @@ If nothing matched, you are clear to write one.
 On the Issues tab, click the green **New issue** button on the right.
 
 <!-- IMAGE: The Issues tab with the green "New issue" button in the top right highlighted. Target path: images/new-issue-button.png -->
+![new-issue-button](../images/new-issue-button.png)
 
 What you should see: a page with a box for a title, a larger box for a
 description, and a green **Create** button at the bottom.
@@ -302,6 +304,7 @@ What you should see: your issue, live, with a number at the top like
 `#12`, your username, and the time you posted it.
 
 <!-- IMAGE: A submitted issue on GitHub showing the title, issue number, author, and description body. Target path: images/issue-submitted.png -->
+![issue-submitted](../images/issue-submitted.png)
 
 **Now practise it for real.** Go to the practice repo, find something
 genuinely worth reporting, and open one issue about it. A typo, an

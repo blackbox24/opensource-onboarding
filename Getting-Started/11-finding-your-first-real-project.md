@@ -70,6 +70,7 @@ that are labelled as good for a first-timer, that nobody has been
 assigned to yet.
 
 <!-- IMAGE: GitHub's issue search results page showing a list of issues labelled "good first issue" from various projects. Target path: images/good-first-issue-search.png -->
+![good-first-issue-search](../images/good-first-issue-search.png)
 
 Add a word to narrow it down to something you care about, for example
 `documentation`, or the name of a language you are learning.
